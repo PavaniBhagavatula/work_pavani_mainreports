@@ -1,0 +1,14 @@
+You are creating reports, you are using docs...business technical ect..
+but, how are you managing all these and where are you
+managing?
+Document control area is required.
+either sharepoint server/github/TFS(team foundation server) etc..
+Github:web or cloud portal for
+a) code management
+b) version maintenance
+
+Today youxreated PBI report.. tested ... you want to add..github...version(1)...comments...description
+After 2 months need modification, go to github, download the previous version,change at your end... again add togithub... with new version...comments...description
+
+
+In this way all documents versioning you can see...
